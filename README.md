@@ -42,11 +42,9 @@ Creating our resources:
 
 Create a Resource Group in Azure
 
-- Create a Windows 10 Virtual Machine (VM)
-While creating the VM, select the previously created Resource Group
+- Create a Windows 10 Virtual Machine (VM). While creating the VM, select the previously created Resource Group
 
-- Create a Linux (Ubuntu) VM
-While create the VM, select the previously created Resource Group and Vnet
+- Create a Linux (Ubuntu) VM. While create the VM, select the previously created Resource Group and Vnet
 </p>
 <br />
 
