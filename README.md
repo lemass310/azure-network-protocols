@@ -60,9 +60,18 @@ Observe the Virtual Network we created through Network Watcher in Azure.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Observing ICMP Traffic: 
+Use Remote Desktop to connect to your Windows 10 Virtual Machine.
+  
+Within the Virtual Machine, Install Wireshark.
 
-Use Remote Desktop to connect to your Windows 10 Virtual Machine. Within the Virtual Machine, Install Wireshark.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Observing ICMP Traffic: 
 
 Open Wireshark and filter for ICMP traffic only.
 
