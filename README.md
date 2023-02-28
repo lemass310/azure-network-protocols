@@ -57,7 +57,7 @@ Observe the Virtual Network we created through Network Watcher in Azure.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N0mDYv7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Use Remote Desktop to connect to your Windows 10 Virtual Machine.
@@ -68,7 +68,7 @@ Within the Virtual Machine, Install Wireshark.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XHTz6rR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing ICMP Traffic: 
@@ -80,25 +80,27 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eK3Afxe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing ICMP Traffic Continued: 
+  
 From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VUCXXFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Observing ICMP Traffic Continued: 
+Observing ICMP Traffic Continued:
+
 Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yYlszIb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing ICMP Traffic Continued: 
@@ -110,7 +112,7 @@ Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rP20pHD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing ICMP Traffic Continued: 
@@ -138,7 +140,7 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ELs1efR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing DHCP Traffic: 
@@ -151,7 +153,7 @@ Observe the DHCP traffic appearing in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9s3yy81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing DNS Traffic: 
@@ -164,7 +166,7 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oD9tvJZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing RDP Traffic: 
