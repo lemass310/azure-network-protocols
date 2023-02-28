@@ -39,6 +39,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 Creating our resources:
+
 Create a Resource Group in Azure
 
 - Create a Windows 10 Virtual Machine (VM)
