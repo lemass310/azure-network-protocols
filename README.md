@@ -61,6 +61,7 @@ Observe the Virtual Network we created through Network Watcher in Azure.
 </p>
 <p>
 Observing ICMP Traffic: 
+
 Use Remote Desktop to connect to your Windows 10 Virtual Machine. Within the Virtual Machine, Install Wireshark.
 
 Open Wireshark and filter for ICMP traffic only.
